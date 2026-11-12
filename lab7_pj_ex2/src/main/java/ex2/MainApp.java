@@ -86,7 +86,7 @@ public class MainApp {
                 System.out::println,
                 () -> System.out.println("Nu exista chitari in colectie.")
         );
-
+        //fara optional, formula lambda in loc de el si sa folosesc doar ifprezentorelse fara :,
         System.out.println("\n--- 10) Tobele acustice ordonate dupa numarul de tobe ---");
         instrumente.stream()
                 .filter(inst -> inst instanceof SetTobe)
