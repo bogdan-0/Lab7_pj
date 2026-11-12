@@ -1,0 +1,34 @@
+[ [ "ex2.Chitara", {
+  "producator" : "Ibanez",
+  "pret" : 2800.0,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 7
+} ], [ "ex2.SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : 2900.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 7,
+  "nr_cinele" : 4
+} ], [ "ex2.SetTobe", {
+  "producator" : "Roland",
+  "pret" : 3500.0,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 6,
+  "nr_cinele" : 4
+} ], [ "ex2.Chitara", {
+  "producator" : "Fender",
+  "pret" : 2500.0,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "ex2.SetTobe", {
+  "producator" : "Pearl",
+  "pret" : 2200.0,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "ex2.Chitara", {
+  "producator" : "Gibson",
+  "pret" : 4500.0,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 12
+} ] ]
